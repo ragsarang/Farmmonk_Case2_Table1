@@ -1,0 +1,25 @@
+{
+
+  "JWT_SECRET": "shhhhh",
+  "PRIVATE_KEY": "1111111111111111111111111111111111111111111111111111111111111111",
+  "MAPS_API_KEY": "https://developers.google.com/maps/documentation/javascript/get-api-key",
+
+  "PORT": 3000,
+  "VALIDATOR_URL": "tcp://localhost:4004",
+
+  "DB_HOST": "localhost",
+  "DB_PORT": 28015,
+  "DB_NAME": "supply_chain",
+
+  "clients": [
+    {
+      "url": "/asset",
+      "path": "../asset_client/public"
+    },
+    {
+      "url": "/fish",
+      "path": "../fish_client/public"
+    }
+  ]
+
+}
