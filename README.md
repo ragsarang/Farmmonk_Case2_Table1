@@ -1,8 +1,8 @@
 # Namma Mandi by Farm Monk
 Blockchain as a solution for Transparency and Traceability of Commodity supply chain.
 
-## Use Case 2
-Tracing the Chain of Custody of Agricultural/ Horticultural/Forest produce
+## Case-2 Table-1
+Tracing the Chain of Custody of Agricultural/ Horticultural/Forest produce.
 This is a distributed application to help you trace the provenance and other
 contextual information of any asset. It can be used as-is or customized for
 different use cases. This distributed application runs on top of Hyperledger
